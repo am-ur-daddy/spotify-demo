@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux temporary files
+*~
+
+# VS Code settings folder
+.vscode/
+
+# Node modules (if you add JS or npm in future)
+node_modules/
+
+# Logs and debug files
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Build or dist folders (not used yet, but safe to ignore)
+dist/
+build/
+
+# Compiled CSS (if using preprocessors like Sass in future)
+*.css.map
+
+# Environment or sensitive configuration files (if added later)
+.env
+.env.*
+
+# Ignore preview screenshots or generated media (optional)
+preview.png
+*.webp
