@@ -33,17 +33,5 @@ A visually stunning Spotify clone built using **HTML** and **CSS**, designed to 
 ## 📸 Preview  
 ![Spotify Clone Preview](./Assets/preview.png)  
 
----
 
-## 🌟 How to Use  
-1. Clone the repository.  
-2. Open **Spotify.html** in your browser.  
-3. Enjoy the Spotify-like experience!  
-
----
-
-## ❤️ Contributing  
-Contributions are welcome! Feel free to fork the repository and submit pull requests.  
-
----
 
